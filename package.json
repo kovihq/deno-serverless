@@ -1,0 +1,11 @@
+{
+  "name": "denoLambda",
+  "version": "0.0.0",
+  "description": "A fresh new Architect project!",
+  "scripts": {
+    "start": "npx sandbox --inspect-brk"
+  },
+  "devDependencies": {
+    "@architect/architect": "^6.4.0"
+  }
+}
